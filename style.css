@@ -17,5 +17,6 @@ body {
 
 header {
     background-color: #264653;
-    height: 95vh;
+
+    background-size: cover;
 }
